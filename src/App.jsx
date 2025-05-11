@@ -7,7 +7,7 @@ import Experiences from './sections/Experiences';
 import Testimonial from './sections/Testimonial';
 import Contact from './sections/Contact';
 import Footer from './sections/Footer';
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from "@vercel/analytics/react"
 
 const App = () => {
   return (
