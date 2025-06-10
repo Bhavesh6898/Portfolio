@@ -249,6 +249,18 @@ export const myProjects = [
   
   export const experiences = [
     {
+      title: "Software Engineer Intern",
+      job: "Sails Software Inc",
+      date: "June 2018 - May 2019",
+      contents: [
+        "Built and maintained scalable web apps using React.js, Node.js, Express.js, and MongoDB, contributing to a modern MERN stack migration.",
+        "Developed and integrated RESTful APIs with dynamic React components, improving UI responsiveness and reducing load times by 35%.",
+        "Employed Redux for state management and wrote unit/integration tests with Jest and Mocha, achieving over 85% code coverage.",
+        "Contributed to CI/CD pipelines using GitLab CI and Docker; collaborated in Agile sprints with daily stand-ups and code reviews."
+      ],
+    },
+      
+    {
       title: "Software Engineer",
       job: "Wipro Technologies",
       date: "June 2019 - Mar 2022",
