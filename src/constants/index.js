@@ -293,7 +293,7 @@ export const myProjects = [
     {
       title: "Graduate Assistant",
       job: "Dept of UCSS ULL",
-      date: "Jan 2025 - Present",
+      date: "Jan 2025 - May 2025",
       contents: [
         "Developed and deployed Docker-based applications for academic use, supporting students and staff across the university network.",
         "Maintained university systems and printers, troubleshooting software issues and ensuring smooth IT operations.",
